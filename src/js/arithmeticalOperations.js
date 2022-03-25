@@ -8,26 +8,31 @@
 
 function sumNumbers( numberOne = 0 , numberTwo = 0 ){
 
-    let Result = numberOne + numberTwo;
-    return  Result;
+    return numberOne + numberTwo;
 }
 // Funcion restar
 function subtractNumbers( numberOne = 0 , numberTwo = 0 ){
 
-    let Result = numberOne - numberTwo;
-    return  Result;
+    let result = numberOne - numberTwo;
+    return  result;
 }
 // Funcion multiplicar
 function multiplyNumbers( numberOne = 0 , numberTwo = 0 ){
 
-    let Result = numberOne * numberTwo;
-    return  Result;
+    let result = numberOne * numberTwo;
+    return  result;
 }
 // dividir dos numeros
 function divideNumbers( numberOne = 0 , numberTwo = 0 ){
 
-    let Result = numberOne / numberTwo;
-    return  Result;
+    let result = numberOne / numberTwo;
+    return  result;
+}
+
+function OperationsArishemetical ( numberOne = 0 , numberTwo = 0 , operacion){
+
+// condiciones para operar 
+
 }
 
 //Ejecucion del Codigo
